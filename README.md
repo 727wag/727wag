@@ -1,6 +1,6 @@
 ## Hi, I'm Wagner Bastos
 
-### Actually im Studiyng:
+### Actually im Studying:
 
 C
 
