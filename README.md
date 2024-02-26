@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Wagner Bastos
 
-<!--
-**727wag/727wag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Actually im Studiyng:
 
-Here are some ideas to get you started:
+C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current learning:
+
+C / HTML
+
+## Languages and Tools:
+<div style="display: inline_block"><br/>
+<img align="center" alt="c" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
+<img align="center" alt="c" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
+</div>
+
+
+
