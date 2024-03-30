@@ -6,7 +6,7 @@ C
 
 ### Current learning:
 
-C / HTML
+C / C#
 
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
