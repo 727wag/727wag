@@ -1,10 +1,10 @@
 ## Hi, I'm Wagner Bastos
 
-### Actually im Studying:
+### ☁️ - Actually im Studying:
 
 AWS / Terraform / Linux
 
-### Current learning:
+### 📚 - Current learning:
 
 Terraform
 
