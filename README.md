@@ -2,16 +2,17 @@
 
 ### Actually im Studying:
 
-C
+AWS / Terraform / Linux
 
 ### Current learning:
 
-C / C#
+Terraform
 
 ## Languages and Tools:
 <div style="display: inline_block"><br/>
-<img align="center" alt="c" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
-<img align="center" alt="c" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 
