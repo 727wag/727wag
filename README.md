@@ -1,4 +1,4 @@
-## Hi, I'm Wagner Bastos
+## Hi, I'm Wagner A Bastos
 
 ### ☁️ - Actually im Studying:
 
