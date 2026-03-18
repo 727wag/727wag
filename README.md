@@ -2,7 +2,7 @@
 
 ### ☁️ - Actually im Studying:
 
-AWS / Terraform / Linux / Python
+AWS / Terraform / Linux / Python / Golang
 
 ### 📚 - Current learning:
 
