@@ -40,4 +40,4 @@ Lambda ingestion → PySpark on Glue → Apache Iceberg → Athena, orchestrated
 
 ---
 
-*Can't rush greatness.*
+*You can't rush greatness, you gotta take your time, maintain it slowly.*
